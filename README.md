@@ -1,5 +1,4 @@
-# Par-ou-impar
-Programa de par ou impar
+
 comando = int(input("Digite seu numero : "));
 comando1 = comando/2
 
